@@ -1,2 +1,1 @@
-# Bouncy Ball , Toplling Boxes
-# Ball class, Groung class
+# Bouncy Ball , Toppling Boxes, class design.
